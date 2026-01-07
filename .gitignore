@@ -1,0 +1,23 @@
+# --- Unreal Engine ---
+Unreal/**/Binaries/
+Unreal/**/DerivedDataCache/
+Unreal/**/Intermediate/
+Unreal/**/Saved/
+Unreal/**/.vs/
+Unreal/**/*.sln
+Unreal/**/Build/
+Unreal/**/*.log
+
+# --- Blender ---
+**/*.blend1
+**/*.blend2
+**/*.blend@
+
+# --- Cash ---
+**/cache/
+**/temp/
+**/*.tmp
+
+# --- ОС ---
+.DS_Store
+Thumbs.db
